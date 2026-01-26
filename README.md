@@ -14,6 +14,15 @@
 ## catppucin_split
 ![catppucin_split](./catppucin_split.png)
 
+## colors-1
+![colors-1](./colors-1.png)
+
+## colors-2
+![colors-2](./colors-2.jpg)
+
+## colors-3
+![colors-3](./colors-3.jpg)
+
 ## dark-xp
 ![dark-xp](./dark-xp.jpg)
 
@@ -52,6 +61,9 @@
 
 ## paper_light
 ![paper_light](./paper_light.png)
+
+## portal-lines
+![portal-lines](./portal-lines.jpg)
 
 ## river
 ![river](./river.jpg)
